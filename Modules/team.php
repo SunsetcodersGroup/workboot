@@ -22,10 +22,7 @@ class team
 						</div>
 						<div class="desc text-center">
 							<ul class="fh5co-social-icons">
-								<li><a href="#"><i class="icon-twitter"></i></a></li>
-								<li><a href="#"><i class="icon-facebook"></i></a></li>
-								<li><a href="#"><i class="icon-linkedin"></i></a></li>
-								<li><a href="#"><i class="icon-dribbble"></i></a></li>
+								<li><a href="https://www.linkedin.com/in/andrew-jeffries-8abb35107/"><i class="icon-linkedin"></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -42,7 +39,6 @@ class team
 								<li><a href="#"><i class="icon-twitter"></i></a></li>
 								<li><a href="#"><i class="icon-facebook"></i></a></li>
 								<li><a href="#"><i class="icon-linkedin"></i></a></li>
-								<li><a href="#"><i class="icon-dribbble"></i></a></li>
 							</ul>
 						</div>
 					</div>
@@ -59,7 +55,39 @@ class team
 								<li><a href="#"><i class="icon-twitter"></i></a></li>
 								<li><a href="#"><i class="icon-facebook"></i></a></li>
 								<li><a href="#"><i class="icon-linkedin"></i></a></li>
-								<li><a href="#"><i class="icon-dribbble"></i></a></li>
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+								<div class="col-md-4 col-sm-4 animate-box">
+					<div class="trainer">
+						<a href="#"><img class="img-responsive" src="images/186-1-4.jpg" alt="System Lord"></a>
+						<div class="title">
+							<h3><a href="#">Nathanial Marsh</a></h3>
+							<span>SystemLord</span>
+						</div>
+						<div class="desc text-center">
+							<ul class="fh5co-social-icons">
+																
+								<li><a href="https://www.linkedin.com/in/nathanial-marsh-6614367a/"><i class="icon-linkedin"></i></a></li>
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+											<div class="col-md-4 col-sm-4 animate-box">
+					<div class="trainer">
+						<a href="#"><img class="img-responsive" src="images/copyrighter.jpg" alt="Content Management"></a>
+						<div class="title">
+							<h3><a href="#">Sariah Robinson</a></h3>
+							<span>Content Management</span>
+						</div>
+						<div class="desc text-center">
+							<ul class="fh5co-social-icons">
+																
+								<li><a href="https://www.facebook.com/sariah.robinson.948"><i class="icon-facebook"></i></a></li>
+								
 							</ul>
 						</div>
 					</div>

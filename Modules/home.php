@@ -11,8 +11,8 @@ class home {
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <div class="display-t">
                             <div class="display-tc animate-box" data-animate-effect="fadeIn">
-                                <h1>Sunsetcoders Webdevelopment</h1>
-                                <h2>Let us shape your online presence without the jargon! We specialize in web development. We help promote your business with secure, user friendly and responsive website.</h2>
+                                <h1>Sunsetcoders Web Development</h1>
+                                <h2>Let us shape your online presence without the jargon! We specialize in web development in order to help you promote your business with a secure, user-friendly, and responsive website.</h2>
                             </div>
                         </div>
                     </div>
