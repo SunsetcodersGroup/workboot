@@ -19,6 +19,7 @@ body {
   background: #fff;
 }
 
+.body-content { max-width: 1024px; margin: 0 auto; }
 #page {
   position: relative;
   overflow-x: hidden;

@@ -23,7 +23,7 @@ class pricing
                             <li>1 Page</li>
                             <li class="color">Wordpress</li>
                             <li>Social Media</li>
-                            <li class="color">GoogleMaps</li>
+                            <li class="color">Google Maps</li>
                         </ul>
                         <a href="#" class="btn btn-select-plan btn-sm">Select Plan</a>
                     </div>
@@ -37,7 +37,7 @@ class pricing
                             <li>Up To 5 Pages</li>
                             <li class="color">Gallery</li>
                             <li>Social Media</li>
-                            <li class="color">GoogleMaps</li>
+                            <li class="color">Google Maps</li>
                         </ul>
                         <a href="#" class="btn btn-select-plan btn-sm">Select Plan</a>
                     </div>
@@ -52,9 +52,8 @@ class pricing
                             <li class="color">Logo Design</li>
                             <li>Custom CMS</li>
                             <li class="color">Google Maps</li>
-                            <li>Google Maps</li>
-                            <li class="color">Social Media</li>
-                            <li>12 Months Hosting</li>
+                            <li>Social Media</li>
+                            <li class="color">12 Months Hosting</li>
                         </ul>
                         <a href="#" class="btn btn-select-plan btn-sm">Select Plan</a>
                     </div>

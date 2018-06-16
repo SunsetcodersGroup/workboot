@@ -25,8 +25,8 @@ class home {
                     <div class="col-md-4 text-center animate-box">
                         <div class="services">
                             <span><img class="img-responsive" src="images/webdevelopment.svg" alt="FEATURED IMAGE"></span>
-                            <h3>Web Development</h3>
-                            <p>Web Development </p>
+                            <h3>Website Design & Development</h3>
+                            <p>A website is a necessity no matter your industry. <br><br> We build unique, user-centered digital experiences combining design and strategy to tell your brand's story. </p>
                             <p><a href="?WebDevelopment" class="btn btn-primary btn-outline btn-sm">More <i class="icon-arrow-right"></i></a></p>
                         </div>
                     </div>
