@@ -1,7 +1,11 @@
-
-    
-
-        <div id="page">
+<?php
+/**
+ * Header
+ *
+ * @todo Migrate this to Modules, to its own namespace, or use a templating language like Twig.
+ */
+?>
+<div id="page">
                 <nav class="fh5co-nav" role="navigation">
                     <div class="top">
                         <div class="container">

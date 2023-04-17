@@ -1,1 +1,12 @@
 /.idea/
+.DS_Store
+.idea/
+composer.phar
+htdocs/*
+vendor/*
+data/cache/*
+!data/cache/.gitkeep
+emberjs/vendor/*
+.phpunit.result.cache
+junit-ember.xml
+.php-cs-fixer.cache
