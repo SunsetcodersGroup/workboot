@@ -7,7 +7,7 @@ Prerequisites
 ------------
 
 *  [Apache2][1]
-*  [PHP 7.2.0][2] or above
+*  [PHP 8.2.0][2] or above
 *  [MySQL 5.7][3]
 
 All packages can be installed conveniently using [XAMPP][4]
@@ -30,6 +30,6 @@ All internal code is proprietary.
 If applicable, check the composer.json, bower.json and packages.json for third party modules that may have seperate licenses.'
 
 [1]: https://httpd.apache.org/ "Apache2"
-[2]: http://us1.php.net/downloads.php "PHP 7.2.x"
+[2]: http://us1.php.net/downloads.php "PHP 8.2.x"
 [3]: https://www.mysql.com/downloads/ "MySQL 5.7"
 [4]: https://www.apachefriends.org/index.html "XAMPP"
